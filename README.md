@@ -1,5 +1,7 @@
 # Validation 👋
 
+!!! Deprecated repo !!! Moved to https://github.com/leliuga/cdk/tree/main/validation
+
 ## Description
 
 Validation is a Go package that provides configurable and extensible data validation capabilities.
